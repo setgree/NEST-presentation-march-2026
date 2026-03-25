@@ -98,21 +98,24 @@ Daniel Lakens, [talking about a putative effect size of d = 2](https://daniellak
 ## Hi Isabel :)
 
 - Time to stir the pot!
-- What you call field experiments, I would call field _studies_. An experiment needs random assignment. 
-- Looking through your citations, _are_ there any experiments that measure outcomes with any delay at all? I think [Ginn & Sparkman (2024)](https://doi.org/10.1016/j.jenvp.2023.102226) is the only one that even theoretically would qualify and I don't see that in the citations
+- What you call field experiments, I would call field _studies_. An experiment needs random assignment IMHO
+- Looking through your citations, _are_ there any experiments that measure outcomes with any delay at all? I think [Ginn & Sparkman (2024)](https://doi.org/10.1016/j.jenvp.2023.102226) is the only one that even theoretically would qualify and I think it's outside your time period
 - was also surprised not to see Coker et al. (2022), "[A dynamic social norm messaging intervention to reduce meat consumption: A randomized cross-over trial in retail store restaurants](https://pubmed.ncbi.nlm.nih.gov/34826525/)"
-- But most importantly, it's really hard to gauge how much we should buy the causal assumptions in non-randomized before-after papers 
-  - Often it's clear that a lot of things changed, e.g. the number of meals served changes dramatically between periods 
-- Question for Isabel/anyone: _should_ we grant these identification strategies the benefit of the doubt? I say no, the default is to assume bias. What do you all think?
+
+## but most importantly
+
+- It's really hard to gauge how much we should buy the causal assumptions in non-randomized before-after papers
+- Often it's clear that a lot of things changed, e.g. the number of meals served changes dramatically between periods
+- Question for Isabel/anyone: _should_ we grant these identification strategies the benefit of the doubt? I say no, the default is to assume bias, and effect sizes are typically small so a little bias can easily create [type S (sign) errors](https://sites.stat.columbia.edu/gelman/research/published/retropower20.pdf).
+- What do you all think?
 
 ## Conclusion: meaningfully reducing consumption of meat and animal products is an unsolved problem
 
-- A lot of advocates want a villain --- the big bad meat corporations, captured regulators, whatever --- someone to defeat.
+- A lot of advocates want a villain, e.g.  big bad meat corporations, so we can say, if not for Tyson, we'd be winning, grr!!
+ 
+- I don't think that's the right model. There's no Lex Luthor here. People just really like meat
 
-- I don't think that's the right model. There's no Lex Luthor here.
+- And they don't care enough about how it's raised to pay attention to it or pay higher prices for the better version
 
-- People just really like eating meat, and they genuinely don't think it's morally problematic. (See: slide 3.)
+- Our challenge is to persuade them otherwise. To quote Lester Freeman on _The Wire_, "Detective, this right here, _this_ is the job." It's just going to be a lot of work.
 
-- Our challenge is to persuade them otherwise --- and that's going to be a lot of work.
-
-- That's OK. That's the work we signed up for.
