@@ -100,7 +100,7 @@ Daniel Lakens, [talking about a putative effect size of d = 2](https://daniellak
 - Time to stir the pot!
 - What you call field experiments, I would call field _studies_. An experiment needs random assignment IMHO
 - Looking through your citations, _are_ there any experiments that measure outcomes with any delay at all? I think [Ginn & Sparkman (2024)](https://doi.org/10.1016/j.jenvp.2023.102226) is the only one that even theoretically would qualify and I think it's outside your time period
-- was also surprised not to see Coker et al. (2022), "[A dynamic social norm messaging intervention to reduce meat consumption: A randomized cross-over trial in retail store restaurants](https://pubmed.ncbi.nlm.nih.gov/34826525/)." What's a nudge?
+- Also, what's a nudge? e.g., Coker et al. (2022), "[A dynamic social norm messaging intervention to reduce meat consumption: A randomized cross-over trial in retail store restaurants](https://pubmed.ncbi.nlm.nih.gov/34826525/)."
 
 ## But most importantly
 
