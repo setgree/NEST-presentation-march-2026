@@ -90,7 +90,7 @@ Daniel Lakens, [talking about a putative effect size of d = 2](https://daniellak
 
 \includegraphics[height=0.58\textheight]{images/example-nudge.png}
 
-\footnotesize example menu from [Andersson, O., & Nelander, L. (2021). Nudge the lunch: A field experiment testing menu-primacy effects on lunch choices. *Games*, 12(1), 2.](https://doi.org/10.3390/g12010002)
+\scriptsize example menu from [Andersson, O., & Nelander, L. (2021). Nudge the lunch: A field experiment testing menu-primacy effects on lunch choices. *Games*, 12(1), 2.](https://doi.org/10.3390/g12010002)
 
 ::::
 :::
